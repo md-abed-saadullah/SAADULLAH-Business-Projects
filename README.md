@@ -1,2 +1,2 @@
-# Design-Illustrations
-Graphical Design &amp; Illustrations created by Md. Abed Saadullah 
+# Business-Projects
+Business Management & Development and Projects related documentations created & managed by Md. Abed Saadullah 
